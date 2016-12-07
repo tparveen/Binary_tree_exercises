@@ -24,7 +24,8 @@ Use the dataset from the previous exercise for this exercise. Use array.sort to 
 Imagine you are looking for a book in a library with a Dewey Decimal index. How would you go about it? Can you express this process as a searching algorithm?
 
 ### Exercise 4
-Use paper and pen for this part of the exercise
+Use paper and pen for this part of the exercise.
+
 What is the output for an in-order traversal through the following binary tree
 [Binary tree](tree1.png)
 
