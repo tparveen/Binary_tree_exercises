@@ -38,7 +38,7 @@ What is the output for a Pre-order traversal through the following binary tree
 ### Exercise 5
 Implement a Binary tree and its insertion function. Then implement in-order, pre-order, and post-order functions. Insert the following data in your binary tree - 
 
-4, 12, 22, 18, 31, 44, 66, 90, 70, 35, 24, 10, 15, 50, 25
+25 15 50 10 24 35 70 4 12 18 31 44 66 90 22
 
 Check your answers:
 
